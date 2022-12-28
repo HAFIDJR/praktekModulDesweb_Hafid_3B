@@ -19,5 +19,5 @@ Kampus  : Universitas Islam Balitar
 ## 🔗 Live Preview Tugas
 
 - Pertemuan 1 : 
-- Pertemuan 2&3 : 
+- Pertemuan 2&3 :https://replit.com/@HAFIDJR1/PraktekWeb2#tugasPrak.html
 - Pertemuan 4 : 
