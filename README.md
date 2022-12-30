@@ -2,7 +2,7 @@
 
 Nama    : M Hafid Nur Firmansyah
 
-NIM     : 21104410062l
+NIM     : 21104410062
 
 Kelas   : TI-3B
 
