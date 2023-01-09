@@ -20,3 +20,4 @@ Kampus  : Universitas Islam Balitar
 - Pertemuan 1 : 
 - Pertemuan 2&3 :https://replit.com/@HAFIDJR1/PraktekWeb2#tugasPrak.html
 - Pertemuan 4 : https://replit.com/@HAFIDJR1/PraktekWeb4
+- Pertemuan 5 : https://replit.com/@HAFIDJR1/Pertemuan6#index.html
