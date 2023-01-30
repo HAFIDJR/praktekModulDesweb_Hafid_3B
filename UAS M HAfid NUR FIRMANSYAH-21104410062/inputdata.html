@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Program Input Data</title>
+</head>
+<body>
+
+  <h2 align="center">Program Input Data</h2>
+
+  <form>
+    Nama: <input type="text" id="nama"><br><br>
+    NIM: <input type="text" id="nim"><br><br>
+    Kelas: <input type="text" id="kelas"><br><br>
+    <input type="button" value="Submit" onclick="tampilData()">
+  </form>
+
+  <p id="hasil"></p>
+
+  <script>
+    function tampilData() {
+      var nama = document.getElementById("nama").value;
+      var nim = document.getElementById("nim").value;
+      var kelas = document.getElementById("kelas").value;
+      document.getElementById("hasil").innerHTML = "Nama: " + nama + "<br>NIM: " + nim + "<br>Kelas: " + kelas;
+    }
+  </script>
+
+</body>
+</html
